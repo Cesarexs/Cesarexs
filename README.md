@@ -5,9 +5,13 @@
 📲 Linkendl: ...
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cesarexs&show_icons=true&theme=cobalt)
+<div>
 
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cesarexs&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cesarexs&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cesarexs&layout=compact&langs_count=7&theme=cobalt"/>
+  
+</div>
 
 
 ## Tecnologias de estudo
